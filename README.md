@@ -1,0 +1,18 @@
+ETM PowerSync — Documentation 
+Sources de la documentation d'ETM PowerSync — installation, fonctions, compatibilité. Rendu publié sur **https://docs.etm
+powersync.fr**. 
+Documentation construite avec MkDocs + Material for MkDocs. 
+Développement local 
+pip install mkdocs-material
+mkdocs serve # aperçu sur http://127.0.0.1:8000
+mkdocs build # génère le site statique dans ./site
+
+⚖️ Licence — double régime 
+Ce dépôt utilise deux licences distinctes, chacune adaptée à son objet : 
+La prose (texte de la documentation) est sous Creative Commons Attribution 4.0 (CC-BY 4.0). Vous pouvez la réutiliser, l'adapter et la
+traduire, y compris à des fins commerciales, à condition de créditer ETM-Schurig (mention « © ETM-Schurig » + lien vers https://etm
+powersync.fr).
+Les exemples de code (commandes, fichiers de configuration, extraits) sont sous GPL-3.0, comme le code du projet. 
+Liens 
+Site produit : https://etm-powersync.fr
+Cœur du HEMS : https://github.com/etmschurig/powersync-core
