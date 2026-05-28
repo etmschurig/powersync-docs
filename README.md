@@ -1,6 +1,5 @@
 ETM PowerSync — Documentation 
-Sources de la documentation d'ETM PowerSync — installation, fonctions, compatibilité. Rendu publié sur **https://docs.etm
-powersync.fr**. 
+Sources de la documentation d'ETM PowerSync — installation, fonctions, compatibilité. Rendu publié sur **https://docs.etm-powersync.fr**. 
 
 ⚖️ Licence — double régime 
 Ce dépôt utilise deux licences distinctes, chacune adaptée à son objet : 
