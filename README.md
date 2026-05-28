@@ -1,11 +1,6 @@
 ETM PowerSync — Documentation 
 Sources de la documentation d'ETM PowerSync — installation, fonctions, compatibilité. Rendu publié sur **https://docs.etm
 powersync.fr**. 
-Documentation construite avec MkDocs + Material for MkDocs. 
-Développement local 
-pip install mkdocs-material
-mkdocs serve # aperçu sur http://127.0.0.1:8000
-mkdocs build # génère le site statique dans ./site
 
 ⚖️ Licence — double régime 
 Ce dépôt utilise deux licences distinctes, chacune adaptée à son objet : 
